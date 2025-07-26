@@ -32,7 +32,7 @@ twitter:
   username: _thanhnt
 
 social:
-  name: Nguyen Tien Thanh
+  name: frozenlake
   email: tienthanh.se@gmail.com
   links:
     - https://x.com/_thanhnt
@@ -94,7 +94,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "assets/shank.jpg"
+avatar: "assets/img/shank.jpg"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
