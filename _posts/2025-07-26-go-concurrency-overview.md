@@ -3,7 +3,7 @@ title: "Go Concurrency Overview"
 date: 2025-07-27 7:00:00 +0700
 categories: [Backend, Golang]
 tags: [golang, basics, syntax, goroutines, channels, concurrency]
-photo: /assets/img/posts/go-concurrency-overview/thumbnail.jpg
+image: /assets/img/posts/go-concurrency-overview/thumbnail.jpg
 ---
 
 Go's built-in concurrency primitives are arguably its most famous feature. They provide a simple yet powerful way to build fast, scalable software that can take full advantage of modern multi-core processors. In this post, we'll explore the core concepts of Go's concurrency model, including goroutines, channels, and the Go scheduler, and how they enable developers to write efficient concurrent programs.
