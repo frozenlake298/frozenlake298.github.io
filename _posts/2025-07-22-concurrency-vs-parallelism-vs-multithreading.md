@@ -3,7 +3,6 @@ title: "Concurrency vs Parallelism vs Multithreading"
 date: 2025-07-22 10:00:00 +0700
 categories: [Computer Science, Programming]
 tags: [concurrency, parallelism, multithreading, programming]
-pin: true
 toc: true
 ---
 
